@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/demo.dir/main.cpp.o  -o ../../bin/demo -Wl,-rpath,/home/nx/Paul.Cheung/code/AWR_Soft/build/lib ../lib/libgpu.so /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
