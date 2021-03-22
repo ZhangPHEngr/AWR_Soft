@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/AWR_Soft.dir/main.cpp.o CMakeFiles/AWR_Soft.dir/src/AWR_Soft_generated_test.cu.o  -o ../bin/AWR_Soft /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl /usr/lib/aarch64-linux-gnu/librt.so 

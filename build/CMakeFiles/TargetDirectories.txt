@@ -1,0 +1,3 @@
+/home/nx/Paul.Cheung/code/AWR_Soft/build/CMakeFiles/rebuild_cache.dir
+/home/nx/Paul.Cheung/code/AWR_Soft/build/CMakeFiles/AWR_Soft.dir
+/home/nx/Paul.Cheung/code/AWR_Soft/build/CMakeFiles/edit_cache.dir
